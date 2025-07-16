@@ -1,0 +1,55 @@
+# 🟢 Sales Performance Dashboard – Tableau
+
+## 🚀 Overview
+
+This project showcases an interactive **Sales Performance Dashboard** built using Tableau. The dashboard enables business stakeholders to monitor key sales metrics, analyze regional trends, and identify high-performing product categories to drive data-driven decisions.
+
+👉 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/abhijith.thakur/viz/SalesDashboard)
+
+---
+
+## 📊 Features
+
+- **Total Sales Overview**: Visualize overall revenue trends over time.
+- **Category Analysis**: Break down sales by product category to identify top performers.
+- **Regional Performance**: Analyze sales distribution across different geographic regions.
+- **Profitability Insights**: Evaluate profit margins and spot opportunities to improve.
+- **Interactive Filters**: Dynamic filtering by region, category, or time period for customized analysis.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Tableau Public**: Data visualization and interactive dashboard design.
+- **Excel / CSV**: Initial data preparation and aggregation.
+
+---
+
+## 💡 Use Cases
+
+- Business and sales teams can use this dashboard to make strategic decisions, monitor KPIs, and plan inventory or marketing efforts.
+- Executives can quickly identify performance bottlenecks and high-growth opportunities.
+
+---
+
+## 📄 Dataset
+
+The dashboard was built using sample sales data containing the following columns:
+
+- `Order Date`
+- `Region`
+- `Product Category`
+- `Sales`
+- `Profit`
+- `Quantity`
+
+
+
+## 📬 Contact
+
+If you'd like to learn more or discuss collaboration, feel free to connect:
+
+- **Email**: abhijithsnght@gmail.com
+- **LinkedIn**: [Abhijith Thakur](https://www.linkedin.com/in/abhijith-thakur/)
+
+
